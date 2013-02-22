@@ -10,3 +10,7 @@ To Track Laser Points in a movie
 for each frame in the video:
   return the coordinates of the center of the dot
 ```
+
+## References
+
+http://www.scipy.org/Cookbook/ParticleFilter and the SciPy cookbook in general
