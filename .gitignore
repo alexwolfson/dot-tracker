@@ -1,3 +1,5 @@
+resources/
+
 *.py[cod]
 
 # C extensions
